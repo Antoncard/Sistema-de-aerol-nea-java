@@ -2,7 +2,8 @@
 Proyector final de estructura de datos
 
 ✈️ Sistema de Gestión de Aerolínea
-Proyecto final – Estructura de Datos (Java – Consola)
+Proyecto final – Estructura de Datos (Java – Consola).
+
 👨‍🎓 Autores
 
 Antonio Cardona
