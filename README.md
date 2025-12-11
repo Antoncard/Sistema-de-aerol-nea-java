@@ -36,7 +36,8 @@ Vuelo.java	Maneja información del vuelo, pasajeros confirmados y lista de esper
 OperacionHistorial.java	Registra operaciones para ser revertidas con una pila.
 SistemaAereolinea.java	Contiene el menú, lógica principal y métodos recursivos.
 Main.java	Punto de entrada: instancia el sistema y lo ejecuta.
-🔧 Estructuras de Datos Utilizadas
+🔧 Estructuras de Datos Utilizadas.
+
 📍 1. Listas (ArrayList)
 
 Usos:
